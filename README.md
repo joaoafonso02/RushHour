@@ -1,5 +1,5 @@
-# ia-rush
-Projecto de Inteligência Artificial 2022 - Rush Hour
+# ai-rush
+Arificial Intelligence Project 2022 - Rush Hour
 
 ## How to install
 
@@ -31,5 +31,9 @@ Make sure pygame is properly installed:
 
 python -m pygame.examples.aliens
 
-# Tested on:
+## Tested on:
 - OSX Monterey 12.5.1
+
+## Authors
+[João Afonso Ferreira](https://github.com/joaoafonso02), 103037  
+[Eduardo Fernandes](https://github.com/EduardoFernandesUA), 102648  
